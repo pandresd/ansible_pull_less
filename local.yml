@@ -1,5 +1,5 @@
 ---
-- hosts:localhost
+- hosts: ubuserver
   connection: local
   become: true
   tasks:
